@@ -1,0 +1,9 @@
+#######P#######
+#O            #
+#O   XX XX    #
+#O   X   X    #
+#XXXXX O X    P
+#O   X   X    #
+#O   XX XX    #
+#O            #
+#######P#######
